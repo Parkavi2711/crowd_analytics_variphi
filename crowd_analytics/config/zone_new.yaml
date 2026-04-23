@@ -1,0 +1,21 @@
+zones:
+  - name: Ticket_Gate_Area
+    polygon:
+      - [192, 461]
+      - [856, 304]
+      - [812, 675]
+      - [186, 811]
+
+  - name: Left_Concourse_Area
+    polygon:
+      - [0, 811]
+      - [480, 805]
+      - [1074, 1211]
+      - [10, 1899]
+
+  - name: Right_Entry_Exit_Gates
+    polygon:
+      - [736, 475]
+      - [1076, 387]
+      - [1078, 883]
+      - [734, 736]
